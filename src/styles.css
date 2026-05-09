@@ -1,0 +1,12 @@
+div[data-cf-ui-portal] {
+  min-height: 100px;
+}
+
+.CodeMirror-code .cm-header-1,
+[data-test-id="markdown-preview"] h1 {
+  color: blue;
+}
+
+[data-test-id="markdown-preview"] ul li::marker {
+  color: blue;
+}
